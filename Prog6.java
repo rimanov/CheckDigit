@@ -1,7 +1,6 @@
 
 /*
 Rasul Imanov
-Programming HW #6
 06/17/18
 Mac OS, Eclipse
 This program generates random 12 digit number the input of the user: card issuer number. It makes use of Luhn algorithm to calculate Check Sum and Check Digit. 
